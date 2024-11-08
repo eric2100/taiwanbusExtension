@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         動態系統外掛
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      0.8
 // @description  動態系統外掛
 // @author       Tsai,Tsunghan
 // @match        https://web.taiwanbus.tw/eBUS/
